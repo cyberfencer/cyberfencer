@@ -1,5 +1,5 @@
 - hello, i'm cyberfencer
-- interested in lua, luau and c#
-- currently learning c++ and python
+- fluent in lua, luau, godot and c#
+- learning c++ and python
 - you can reach me on discord, its the same handle as my github
 - he/him
